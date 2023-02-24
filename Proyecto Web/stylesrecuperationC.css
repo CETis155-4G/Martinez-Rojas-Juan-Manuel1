@@ -1,0 +1,59 @@
+center{
+   font-size: 12;
+   font-style: initial;
+}
+
+
+form {
+  background-color: rgba(35, 101, 121, 0.993);
+  background-position: center;
+  border-style: outset;
+   border-color: rgb(126, 235, 24);
+   border-width: medium;
+  width: 500px;
+  border-radius: 10px;
+  padding: 40px 40px;
+  border: 1px solid black;
+  margin-left: auto;
+  margin-right: auto;
+  height: min-content;
+  width: min-content;
+  box-shadow: 0 10px 25px rgba(224, 84, 9, 0.623);
+}
+
+title {
+  font-size: 50px;
+  margin-bottom: 50px;
+}
+
+body {
+     background: rgba(94, 77, 91, 0.61);
+}
+
+
+P{
+  color: rgb(20, 224, 187);
+  width: 200px;
+  border: 1px solid rgb(193, 244, 12);
+}
+
+center{
+    background-image: url(https://www.peakpx.com/es/hd-wallpaper-desktop-kivis)
+    background-repeat repeat-x;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: 10;
+}
+
+P{
+  font-style: oblique;
+  font-weight: normal=100;
+
+}
+
+body{
+   border-style: outset;
+   border-color: lawngreen;
+   border-width: medium;
+
+}
